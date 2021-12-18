@@ -10,7 +10,11 @@
     </head>
 
     <body>
+<<<<<<< HEAD
         <h1>RIBET LAPOR!</h1>
+=======
+        <h1>SIMPLE LAPOR! COBA</h1>
+>>>>>>> 932245e1b89511036889718ba62aa829f40bb170
         <form class="searchbar" action="/search_page.php">
             <input type="text" placeholder="Search.." name="search">
             <button type="submit" class=searchbutton>
