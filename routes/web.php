@@ -12,5 +12,9 @@
 */
 
 Route::get('/', function () {
+    return view('home_page');
+});
+
+Route::get('/form_page', function () {
     return view('form_page');
 });

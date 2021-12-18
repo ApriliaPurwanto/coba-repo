@@ -10,7 +10,7 @@
     </head>
 
     <body>
-        <h1>SIMPLE LAPOR!</h1>
+        <h1>RIBET LAPOR!</h1>
         <form class="searchbar" action="/search_page.php">
             <input type="text" placeholder="Search.." name="search">
             <button type="submit" class=searchbutton>

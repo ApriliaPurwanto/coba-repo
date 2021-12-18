@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="form_page.css">
         <title>
-            SIMPLE LAPOR!
+            RIBET LAPOR!
         </title>
         <script>
             function validateForm() {
@@ -19,7 +19,7 @@
     </head>
 
     <body>
-        <h1>SIMPLE LAPOR!</h1>
+        <h1>RIBET LAPOR!</h1>
         <form method="POST" id="formlaporan" action="/add_page.php" onsubmit="return validateForm()" enctype="multipart/form-data">
             <p>Buat Laporan/Komentar</p>
             <hr>
